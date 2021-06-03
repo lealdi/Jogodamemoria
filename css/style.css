@@ -75,7 +75,7 @@ body{
     margin-top: 10px;
 }
 
-#gameBorder{    
+#gameBoard{    
     max-width: 700px;
     display: grid;
     grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
