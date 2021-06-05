@@ -1,4 +1,4 @@
-# Jogo_da_memoria
+# Jogo da memoria
 <p>O jogo da memória é um clássico jogo formado por peças que apresentam uma figura em um dos lados. Caso as figuras sejam iguais, o participante deve recolher consigo esse par e jogar novamente</p
   
 ### 🛠 Tecnologias
